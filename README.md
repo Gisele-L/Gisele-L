@@ -141,7 +141,7 @@ WHERE  trajetoria LIKE '%design%comunicação%dados%'
 ## 🎯 Agora
 
 - 🎓 Cursando **Data Science na FIAP** (conclusão prevista para julho de 2027)
-- 🏗️ Desenvolvendo o [**MediFlow**](https://github.com/No-Country-simulation/G10-BRASIL-EQUIPO-3) como full stack no Hackathon ONE (Oracle + Alura)
+- 🏗️ Desenvolvendo o [**MediFlow**](https://github.com/No-Country-simulation/G10-BRASIL-EQUIPO-3) no Hackathon ONE (Oracle + Alura)
 - 📚 Estudando **estatística com Python, PySpark, Databricks e Azure Data Lake**
 - 🤖 Aprofundando **arquiteturas RAG com LLMs e LangChain**
 - 💬 Aberta a conversas sobre dados, BI e IA aplicada: me chama no [LinkedIn](https://www.linkedin.com/in/giselelimas/)
@@ -156,7 +156,7 @@ como_aprendo: digitando o código linha por linha até entender o porquê
 idiomas: {português: nativo, inglês: intermediário (B1)}
 ```
 
-## 🐍 A cobrinha das contribuições
+## 🐍 Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gisele-L/Gisele-L/output/snake-dark.svg" />
